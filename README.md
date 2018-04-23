@@ -1,7 +1,7 @@
 # ゼロから作る Deep Learning
 
 ---
-
+ 
 ![表紙](https://raw.githubusercontent.com/oreilly-japan/deep-learning-from-scratch/images/deep-learning-from-scratch.png)
 
 ---
