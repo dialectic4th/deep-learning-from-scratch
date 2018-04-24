@@ -1,3 +1,6 @@
+## 勉強ノート
+https://drive.google.com/file/d/1YNLuXm1PEHUj3n89iQ2esZQD0KmcyNx4/view?usp=sharing
+
 # ゼロから作る Deep Learning
 
 ---
